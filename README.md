@@ -37,9 +37,9 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 </p>
 
 # 📊 GitHub Stats:
-
+https://streak-stats.demolab.com/?user=AdityaChowdhury2
 <div align='center'>
-<img align="center" src="https://streak-stats.demolab.com?user=AdityaChowdhury2&theme=graywhite&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=700"/>
+<img align="center" src="https://streak-stats.demolab.com/?user=AdityaChowdhury2&theme=graywhite&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=700"/>
 
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaChowdhury2&theme=graywhite"/>
 
