@@ -9,9 +9,9 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning **NEXT.js With Typescript**
+- 🌱 I’m currently working on **Comunity Based Health Information System**
 
-- 👯 I'm looking to join an **Energetic Web Development Team**.
+- 👯 I'm looking for some **Exciting Project**.
 
 - 💬 Ask me about **React**
 
