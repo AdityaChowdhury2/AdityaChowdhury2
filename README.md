@@ -32,7 +32,7 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,github,mongodb,express,react,nodejs,tailwind,materialui,bootstrap,firebase,androidstudio,angular,ts&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,github,mongodb,express,react,nodejs,tailwind,materialui,bootstrap,firebase,androidstudio,angular,ts,sqlite&perline=4" />
   </a>
 </p>
 
