@@ -13,7 +13,7 @@ I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft
 
 - 👯 I'm looking for some **Exciting Project**.
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React Angular**
 
 - 📫 How to reach me **adityac5102@gmail.com**
 
