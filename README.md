@@ -5,7 +5,7 @@
 
 # Summary
 
-I'm a 🚀 front-end developer, expertly navigating MERN stack projects to craft seamless, user-centric web experiences. My passion lies in transforming designs into interactive and dynamic web applications 💻✨
+I'm a 🚀 Full Stack developer, expertly navigating MERN stack projects to craft seamless, user-centric web experiences. My passion lies in transforming designs into interactive and dynamic web applications 💻✨
 
 # 💫 About Me:
 
