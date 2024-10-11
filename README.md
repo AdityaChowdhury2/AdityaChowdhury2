@@ -13,7 +13,7 @@ I'm a 🚀 Full Stack developer, expertly navigating MERN stack projects to craf
 
 - 👯 I'm looking for some **Exciting Project**.
 
-- 💬 Ask me about **React Angular**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **adityac5102@gmail.com**
 
