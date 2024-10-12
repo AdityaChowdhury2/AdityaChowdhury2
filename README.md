@@ -1,6 +1,6 @@
 ![Cover Image](/assets/banner.png)
 
-<h1 align="center">Hi 👋, I'm Aditya Chowdhury</h1>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Aspiring to evolve from a skilled front-end developer to a full-stack developer</h3>
 
 # Summary
