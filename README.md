@@ -9,7 +9,7 @@ I'm a 🚀 Full Stack developer, expertly navigating MERN stack projects to craf
 
 # 💫 About Me:
 
-- 🌱 I’m currently working on **Comunity Based Health Information System**
+- 🌱 I’m currently working on **ERP**
 
 - 👯 I'm looking for some **Exciting Project**.
 
