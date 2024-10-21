@@ -11,7 +11,7 @@ I'm a 🚀 Full Stack developer, expertly navigating MERN stack projects to craf
 
 - 🌱 I’m currently working on **ERP**
 
-- 👯 I'm looking for some **Exciting Project**.
+- 👯 I'm learning for now **Frappe Framework**.
 
 - 💬 Ask me about **Software Development**
 
