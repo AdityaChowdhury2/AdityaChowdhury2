@@ -9,9 +9,9 @@ I'm a 🚀 Full Stack developer, expertly navigating MERN stack projects to craf
 
 # 💫 About Me:
 
-- 🌱 I’m currently working on **ERP**
+- 🌱 I’m currently working with **[CodeCobble](https://codecobble.com)**
 
-- 👯 I'm learning now **Frappe Framework**.
+- 👯 I'm learning now **Backend Technologies**.
 
 - 💬 Ask me about **Software Development**
 
