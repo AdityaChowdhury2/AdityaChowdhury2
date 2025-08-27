@@ -1,4 +1,5 @@
-![Cover Image](/assets/banner.png)
+
+<img width="1536" height="1024" alt="20250827_2351_Futuristic Developer Workspace_simple_compose_01k3pc3vjwfvcth18wvbq11y40" src="https://github.com/user-attachments/assets/a942eb85-46cd-4216-9b64-d480a9525987" />
 
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">Aspiring to evolve from a skilled front-end developer to a full-stack developer</h3>
