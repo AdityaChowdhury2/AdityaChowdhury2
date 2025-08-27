@@ -16,6 +16,8 @@ I'm a 🚀 Full Stack developer, expertly navigating MERN stack projects to craf
 - 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **adityac5102@gmail.com**
+- 
+- 🤖 Exploring **Generative AI** — check out my projects on [My Hugging Face Spaces](https://huggingface.co/aditya-chy/spaces)
 
 # 🌐 Talk to me:
 
